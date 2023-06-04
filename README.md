@@ -1,1 +1,1 @@
-# jogo_pedra_papel_tesoura
+# jogo_pedra_papel_tesoura  🪨 📄 ✂
